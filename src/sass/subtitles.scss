@@ -1,0 +1,27 @@
+.sub-title {
+	font-size: 50px;
+	font-family: Courier New;
+	letter-spacing: 3px;
+	text-align: center;	
+    margin: auto;
+	width: 650px;
+
+	background: linear-gradient(180deg, 
+        white calc(50% - 1px), 
+        black calc(50%), 
+        white calc(50% + 1px)
+    );
+
+    padding: 10px 0 10px 0;
+}
+.discography-subtitle { @extend .sub-title; color: #9a6645; }
+.concerttours-subtitle { @extend .sub-title; color: #62a2ad; }
+.lattercompositions-subtitle { @extend .sub-title; color: black; }
+.section-description {
+	color: #a3a9ab;
+	font-family: monospace;
+	width: 50%;
+	margin: auto;
+	text-align: center;
+	padding: 10px 0 10px 0;
+}

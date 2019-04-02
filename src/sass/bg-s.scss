@@ -1,0 +1,16 @@
+.bg100 {
+  background-size: 100%;
+}
+.bg {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bg-image-header { background-image: url("../images/header.jpg");  height: 1062px;}
+.bg-image-discography { background-image: url("../images/discography_content.jpg"); min-height: 1495px; background-position: bottom;}
+.bg-image-concerttours { background-image: url("../images/concert_tours_content.jpg");  height: 1062px;}
+.bg-image-lc-footer { background-image: url("../images/latter_composition_footer.jpg");  height: 640px;}
+.bg-image-lc-cd { background-image: url("../images/latter_composition_cd.jpg");  height: 1176px;}
+.bg-image-upcomingevents { background-image: url("../images/upcoming_events_content.jpg");  height: 1187px;}
+.bg-image-history { background-image: url("../images/history_content.jpg");  height: 1250px;}
+.bg-image-contact { background-image: url("../images/contact_content.jpg");  height: 980px;}
