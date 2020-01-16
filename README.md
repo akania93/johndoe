@@ -1,6 +1,8 @@
 # johndoe
 Single Page Application w ReactJS + Redux
 
+[![johndoe](https://arturkania.files.wordpress.com/2018/11/3.png?w=700&h=&crop=1 "johndoe")](https://arturkania.files.wordpress.com/2018/11/3.png?w=700&h=&crop=1 "johndoe")
+
 ## Najważniejsze informacje:
 * strona jest responsywna (RWD, patrz slajdy),
 * zarządzanie stanem aplikacji poprzez Redux,
